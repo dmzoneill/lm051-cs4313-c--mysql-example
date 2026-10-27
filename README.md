@@ -1,5 +1,9 @@
 # CS4313 C++ MySQL Example
 
+<p align="center">
+  <img src=".github/logo.png" alt="lm051-cs4313-c--mysql-example logo" width="128" />
+</p>
+
 A small C++ GTK application written for the CS4313 Software Engineering
 project, from the LM051 Computer Systems degree at the University of Limerick.
 
